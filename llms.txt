@@ -1,0 +1,45 @@
+# Sondajespt — Santiago
+
+> Geotechnical engineering services in Santiago, Chile.
+
+## Services
+- [Aislacion Sismica](https://santiago.sondajespt.com/aislacion-sismica/)
+- [Anclajes](https://santiago.sondajespt.com/anclajes/)
+- [Calicatas Exploratorias](https://santiago.sondajespt.com/calicatas-exploratorias/)
+- [Cbr Vial](https://santiago.sondajespt.com/cbr-vial/)
+- [Cimentaciones](https://santiago.sondajespt.com/cimentaciones/)
+- [Columnas Grava](https://santiago.sondajespt.com/columnas-grava/)
+- [Densidad Cono Arena](https://santiago.sondajespt.com/densidad-cono-arena/)
+- [Ensayo Cpt](https://santiago.sondajespt.com/ensayo-cpt/)
+- [Ensayo Triaxial](https://santiago.sondajespt.com/ensayo-triaxial/)
+- [Excavaciones Profundas](https://santiago.sondajespt.com/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://santiago.sondajespt.com/excavaciones-subterraneo/)
+- [Exploracion](https://santiago.sondajespt.com/exploracion/)
+- [Geofisica](https://santiago.sondajespt.com/geofisica/)
+- [Geotecnia Vial](https://santiago.sondajespt.com/geotecnia-vial/)
+- [Granulometria](https://santiago.sondajespt.com/granulometria/)
+- [Grouting](https://santiago.sondajespt.com/grouting/)
+- [Laboratorio In Situ](https://santiago.sondajespt.com/laboratorio-in-situ/)
+- [Laboratorio Lab](https://santiago.sondajespt.com/laboratorio-lab/)
+- [Licuefaccion](https://santiago.sondajespt.com/licuefaccion/)
+- [Losa De Cimentacion](https://santiago.sondajespt.com/losa-de-cimentacion/)
+- [Masw Vs30](https://santiago.sondajespt.com/masw-vs30/)
+- [Mejoramiento](https://santiago.sondajespt.com/mejoramiento/)
+- [Microzonificacion Sismica](https://santiago.sondajespt.com/microzonificacion-sismica/)
+- [Muros Contencion](https://santiago.sondajespt.com/muros-contencion/)
+- [Pavimento Flexible](https://santiago.sondajespt.com/pavimento-flexible/)
+- [Pavimento Rigido](https://santiago.sondajespt.com/pavimento-rigido/)
+- [Permeabilidad Campo](https://santiago.sondajespt.com/permeabilidad-campo/)
+- [Resistividad Electrica Sev](https://santiago.sondajespt.com/resistividad-electrica-sev/)
+- [Sismica](https://santiago.sondajespt.com/sismica/)
+- [Sondaje Spt](https://santiago.sondajespt.com/sondaje-spt/)
+- [Taludes](https://santiago.sondajespt.com/taludes/)
+- [Tomografia Sismica](https://santiago.sondajespt.com/tomografia-sismica/)
+- [Vibrocompactacion](https://santiago.sondajespt.com/vibrocompactacion/)
+
+## Contact
+- Website: https://santiago.sondajespt.com/
+
+## About
+This site provides geotechnical engineering services in Santiago, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
